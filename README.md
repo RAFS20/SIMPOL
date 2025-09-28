@@ -74,7 +74,7 @@ If you use this code, please cite the corresponding paper:
 ```bibtex
 @misc{fernandezsalguero2025simpol,
   author       = {Ricardo Alonzo Fernández Salguero},
-  title        = {SIMPOL Model (v6+): Modular HJB–FPK Solver with Robust Validation},
+  title        = {SIMPOL Model for Solving Continuous-Time Heterogeneous Agent Problems},
   year         = {2025},
   howpublished = {arXiv preprint},
 }
