@@ -91,7 +91,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ##  Notes
 
 * The preprint is available on **arXiv**: [arXiv:2509.xxxxx](https://arxiv.org/abs/2509.xxxxx) *(to be updated upon submission)*.
-* A permanent archived version of the code will be available via **Zenodo DOI**.
+* A permanent archived version of the code will be available via [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17216748.svg)](https://doi.org/10.5281/zenodo.17216748)
+
 
 
 
